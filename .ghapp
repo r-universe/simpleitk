@@ -1,0 +1,10 @@
+{
+  "id": 142119137,
+  "created_at": "2026-06-23T13:09:43.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["simpleitk.r-universe.dev"]
+}
